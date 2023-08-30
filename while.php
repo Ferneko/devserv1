@@ -1,6 +1,6 @@
 <?php include "cabecalho.php"; ?>       
             <h1>
-                Laço de repetição While
+                Laço de repetição While com as variaveis $i
             </h1>
             <p> 
                 O laço de repetição While repete o bloco
